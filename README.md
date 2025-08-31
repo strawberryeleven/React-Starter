@@ -12,7 +12,9 @@ Currently, two official plugins are available:
 A comprehensive React TypeScript starter template designed specifically for interns and junior developers. This template provides a solid foundation for learning modern web development practices while building scalable applications.
 
 ## 📚 **NEW INTERNS: Start Here!**
-👉 **[Read the Complete Intern's Guide](./INTERN_GUIDE.md)** - A step-by-step learning guide with resources and explanations for beginners.
+👉 **[Quick Setup Guide](./SETUP.md)** - Get up and running in 5 minutes  
+👉 **[Complete Intern's Guide](./INTERN_GUIDE.md)** - Step-by-step learning guide with resources  
+👉 **[Contributing Guide](./CONTRIBUTING.md)** - How to contribute to this project  
 
 ## 🎯 Purpose
 
