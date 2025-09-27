@@ -196,3 +196,9 @@ export default tseslint.config([
   },
 ])
 ```
+### Intern Profile:
+- Qasim Ashraf
+ - LGS Phase 5
+ - Interested in AI/ML
+ - Github: https://github.com/QasimAshraf-ux/Inter-Starter
+ 
